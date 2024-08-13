@@ -1,4 +1,4 @@
-![logo](
+![logo](https://github.com/Abhi0-cyber/Alex_Abhijit003/blob/main/github.png)
 <h1 align="center">Hi 👋, I'm Abhijit Manna</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
